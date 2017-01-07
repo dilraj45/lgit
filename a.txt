@@ -1,9 +1,9 @@
-<<<<<<< HEAD
 1,Dilraj
 2,Vishwas
 3,Nikhil
 3,Priyam
-=======
+
 Dilraj Singh 
 Jatinder Dhawan 
->>>>>>> b9ec07927ac490246856221ee103d642ff09b324
+
+Just made a few more changes to the a.txt
