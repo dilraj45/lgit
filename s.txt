@@ -1,2 +1,1 @@
-Testing file. Changed the file in branch testing.
-Made some other changes in testing branch before commitingg
+Testing file. Made changes in master branch before merging
